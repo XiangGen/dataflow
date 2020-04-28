@@ -1,2 +1,2 @@
-# renderflow
-Renderflow is a graphics rendering engine.
+# dataflow
+Dataflow is a deep learning engine.
